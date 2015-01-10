@@ -1,5 +1,8 @@
 # atom-coffee-repl package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+This will be an Atom Editor package that implements a **REPL** (Read-Eval-Print-Loop) similar to:
+* [C# REPL](https://github.com/o2platform/FluentSharp/wiki/C%23-REPL) - Windows App
+* [NWR](https://github.com/o2platform/nwr) - Node-WebKit-REPL
+* [Chrome REPL](https://github.com/o2platform/chrome-repl) - Chrome Extension
+* [Web CSharp REPL](https://github.com/o2platform/Web_CSharp_REPL) - Web app
+* [FluentSharp VisualStudio](https://github.com/o2platform/FluentSharp.VisualStudio) - VS Plugin
