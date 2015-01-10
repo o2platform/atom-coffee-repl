@@ -1,5 +1,7 @@
 # atom-coffee-repl package
 
+[![Build Status](https://travis-ci.org/o2platform/atom-coffee-repl.svg?branch=master)](https://travis-ci.org/o2platform/atom-coffee-repl)
+
 This will be an Atom Editor package that implements a **REPL** (Read-Eval-Print-Loop) similar to:
 * [C# REPL](https://github.com/o2platform/FluentSharp/wiki/C%23-REPL) - Windows App
 * [NWR](https://github.com/o2platform/nwr) - Node-WebKit-REPL
